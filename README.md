@@ -145,12 +145,30 @@ This will automatically create a virtual environment (if none exists) and instal
 
 You're ready to go! 🚀  
 
+## Citation
+
+If you find this code useful for your research, please consider citing the following paper:
+
+```
+@INPROCEEDINGS{dipoce2025fedsemalign,
+  author={Di Poce, Giuseppe and Pandolfo, Mario Edoardo and Strinati, Emilio Calvanese and Di Lorenzo, Paolo},
+  booktitle={2025 IEEE 26th International Workshop on Signal Processing and Artificial Intelligence for Wireless Communications (SPAWC)}, 
+  title={Federated Latent Space Alignment for Multi-User Semantic Communications}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Training;Wireless communication;Accuracy;Protocols;Equalizers;Noise;Key performance indicator;Semantic communication;Numerical models;Optimization;Semantic Communication;semantic equalization;latent space alignment;MIMO;Federated Learning},
+  doi={10.1109/SPAWC66079.2025.11143294}
+}
+```
+
 ## Authors
 
 - [Giuseppe Di Poce](https://github.com/giuseppedipoce)
-- [Mario Edoardo Pandolfo](https://github.com/JRhin)
-- [Paolo Di Lorenzo](https://scholar.google.com/citations?hl=en&user=VZYvspQAAAAJ)
+- [Mario Edoardo Pandolfo](https://scholar.google.com/citations?user=wAeScL8AAAAJ&hl)
 - [Emilio Calvanese Strinati](https://scholar.google.com/citations?user=bWndGhQAAAAJ)
+- [Paolo Di Lorenzo](https://scholar.google.com/citations?hl=en&user=VZYvspQAAAAJ)
 
 ## Used Technologies
 
